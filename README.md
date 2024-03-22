@@ -1,10 +1,9 @@
-# presentacion-
+# Presentación 2024
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+| Nombre | Apellido | Edad |
+| ------ | -------- | ---- |
+| Juan Martín | Avila | 21 |
 
-Ya saben usar git!
+>Soy estudiante de 2do año. Me gusta leer libros y hacer cerámica. Todavía no sé qué esperar de la materia.
+
+Ya sé usar git!
